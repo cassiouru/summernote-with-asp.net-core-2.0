@@ -1,0 +1,11 @@
+C:\Users\Cassio Henrique\Desktop\Summernote teste\Summernote\Summernote\bin\Debug\netcoreapp2.0\Summernote.deps.json
+C:\Users\Cassio Henrique\Desktop\Summernote teste\Summernote\Summernote\bin\Debug\netcoreapp2.0\Summernote.runtimeconfig.json
+C:\Users\Cassio Henrique\Desktop\Summernote teste\Summernote\Summernote\bin\Debug\netcoreapp2.0\Summernote.runtimeconfig.dev.json
+C:\Users\Cassio Henrique\Desktop\Summernote teste\Summernote\Summernote\bin\Debug\netcoreapp2.0\Summernote.dll
+C:\Users\Cassio Henrique\Desktop\Summernote teste\Summernote\Summernote\bin\Debug\netcoreapp2.0\Summernote.pdb
+C:\Users\Cassio Henrique\Desktop\Summernote teste\Summernote\Summernote\obj\Debug\netcoreapp2.0\Summernote.csprojAssemblyReference.cache
+C:\Users\Cassio Henrique\Desktop\Summernote teste\Summernote\Summernote\obj\Debug\netcoreapp2.0\Summernote.csproj.CoreCompileInputs.cache
+C:\Users\Cassio Henrique\Desktop\Summernote teste\Summernote\Summernote\obj\Debug\netcoreapp2.0\Summernote.AssemblyInfoInputs.cache
+C:\Users\Cassio Henrique\Desktop\Summernote teste\Summernote\Summernote\obj\Debug\netcoreapp2.0\Summernote.AssemblyInfo.cs
+C:\Users\Cassio Henrique\Desktop\Summernote teste\Summernote\Summernote\obj\Debug\netcoreapp2.0\Summernote.dll
+C:\Users\Cassio Henrique\Desktop\Summernote teste\Summernote\Summernote\obj\Debug\netcoreapp2.0\Summernote.pdb

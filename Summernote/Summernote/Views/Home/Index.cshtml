@@ -1,0 +1,22 @@
+﻿@model Summernote.Models.Home.IndexViewModel;
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form method="post" asp-controller="Home" asp-action="Index">
+    <h1 style="text-align: center">Summernote</h1>
+    <textarea id="summernote" asp-for="Text"></textarea>
+    <input type="submit" value="save" class="btn btn-success pull-right" />
+</form>
+
+@section Scripts{
+    <script>
+            $(document).ready(function () {
+                $('#summernote').summernote({
+                    height: 300
+                });
+            });
+        </script>
+}
+
